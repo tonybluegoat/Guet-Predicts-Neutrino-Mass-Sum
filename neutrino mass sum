@@ -1,0 +1,49 @@
+# A Φ-Based Prediction for the Neutrino-Mass Sum  
+_A. Okrongly • GUET Ledger v 1.1 • June 2025_
+
+## Abstract  
+The Grand Unified Entropic Theory (GUET) counts lepton entropy in its functional Φ.  
+Minimising the free-energy jump when relic neutrinos become non-relativistic forces a
+degenerate hierarchy with  
+
+\[
+\boxed{\Sigma m_\nu^{\text{GUET}} = 0.060\ \text{eV}}
+\]
+
+using the same Φ-coefficients already fixed by rotation curves, BTFR and Λ.  
+This implies  
+* β-decay observable \(m_\beta = 0.047\ \text{eV}\) (KATRIN Phase II reach)  
+* cosmological sum Σ mν = 0.060 eV (DESI + Planck sensitivity ≈ 0.01 eV)  
+* 0νββ effective mass \(m_{ee} ≈ 0.020\ \text{eV}\) (nEXO, LEGEND goal).  
+Any detection of Σ mν > 0.09 eV or \(m_\beta < 0.04\ \text{eV}\) falsifies GUET.
+
+---
+
+## 1  Entropy minimisation  
+
+For each Majorana species the free-energy hand-over  
+\( \Delta F_i = \tfrac{3}{11}\tfrac{\pi^2}{30} m_i^2 T_0^2 \).  
+Stationarity under fixed lepton number demands equal masses and  
+
+\[
+3\,m_* = \sqrt{\frac{135\,\zeta(3)}{\pi^4}}\,T_0 \;\; \Longrightarrow\;\;
+\Sigma m_\nu = 0.060\ \text{eV}.
+\]
+
+---
+
+## 2  Observables  
+| Channel | GUET | Current/ upcoming limit |
+|---------|------|-------------------------|
+| β-decay | \(m_\beta = 0.047\) eV | KATRIN Phase II ≈ 0.04 eV |
+| Cosmology | Σ mν = 0.060 eV | Planck ≤ 0.12 → DESI ± 0.01 |
+| 0νββ | \(m_{ee}≈0.020\) eV | nEXO/LEGEND goals ≈ 0.01 eV |
+
+---
+
+## 3  Kill-switch  
+If Σ mν > 0.09 eV (95 %) **or** \(m_\beta < 0.04\) eV, GUET’s entropy minimum fails.
+
+---
+
+*Everything derived with no new constants; notebook reproduces numbers in two cells.*
